@@ -1,0 +1,3 @@
+- nama : Halim Aziz
+- kelas : front-end bacth1
+- sesi : 3
